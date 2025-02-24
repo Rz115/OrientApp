@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:title= "Escuelas">
+            <menu>
+        <item
+            android:id="@+id/medio_superior"
+            android:icon="@drawable/book_msuperior"
+            android:title="Nivel Medio Superior" />
+        <item
+            android:id="@+id/superior"
+            android:icon="@drawable/book_msuperior"
+            android:title="Nivel Superior" />
+        <item
+            android:id="@+id/capacitacion"
+            android:icon="@drawable/ic_business_center_black_24dp"
+            android:title="De Capacitación" />
+            </menu>
+        </item>
+    </group>
+
+    <item android:title="Comunicación">
+        <menu>
+            <item
+                android:id="@+id/contacto"
+                android:icon="@drawable/ic_mail_black_24dp"
+                android:title="Contacto" />
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="Acerca de:" />
+            <item
+                android:id="@+id/about_us"
+                android:icon="@drawable/ic_code_black_24dp"
+                android:title="Proyecto OrientApp:" />
+
+
+        </menu>
+    </item>
+
+</menu>

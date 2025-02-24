@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/optprincipios"
+        android:title="Principios"
+        android:layout_width="wrap_content" />
+
+    <item
+        android:id="@+id/optcursos"
+        android:title="Cursos"
+        android:layout_width="wrap_content"
+        />
+    <item
+        android:id="@+id/optcontacto"
+        android:title="Contacto"
+        android:layout_width="wrap_content"
+        />
+    <item
+        android:id="@+id/optservicios"
+        android:title="Servicios"
+        android:layout_width="wrap_content"
+        />
+    <!--<item
+        android:id="@+id/optinstalaciones"
+        android:title="Instalaciones "
+        android:layout_width="wrap_content"
+        /> -->
+    <item
+        android:id="@+id/optrequisitos"
+        android:title="Requisitos "
+        android:layout_width="wrap_content"
+        />
+</menu>

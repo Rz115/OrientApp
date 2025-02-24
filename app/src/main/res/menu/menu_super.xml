@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/optprincipios"
+    android:title="Principios"
+    android:layout_width="wrap_content"
+    />
+    <item
+        android:id="@+id/optbecas"
+        android:title="Becas"
+        android:layout_width="wrap_content"
+        />
+    <item
+        android:id="@+id/optcarreras"
+        android:title="Carreras"
+        android:layout_width="wrap_content"
+        />
+    <!--<item
+        android:id="@+id/optinstalaciones"
+        android:title="Instalaciones"
+        android:layout_width="wrap_content"
+        /> -->
+    <item
+        android:id="@+id/optfichas"
+        android:title="Fichas"
+        android:layout_width="wrap_content"
+        />
+    <item
+        android:id="@+id/optservicios"
+        android:title="Servicios"
+        android:layout_width="wrap_content"
+        />
+    <item
+        android:id="@+id/optcontacto"
+        android:title="Contacto"
+        android:layout_width="wrap_content"
+        />
+    <!--<item
+        android:id="@+id/optdiplomado"
+        android:title="Diplomados"
+        android:layout_width="wrap_content"
+        /> -->
+    <item
+        android:id="@+id/optrecreativas"
+        android:title="Actividades Recreativas"
+        android:layout_width="wrap_content"
+        />
+    <item
+        android:id="@+id/opthorario"
+        android:title="Horarios"
+        android:layout_width="wrap_content"
+        />
+</menu>

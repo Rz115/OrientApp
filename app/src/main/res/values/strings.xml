@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">OrientApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="medio_superior">medio_superior</string>
+    <string name="superior">superior</string>
+    <string name="capacitacion">capacitacion</string>
+    <string name="contacto">contactos</string>
+    <string name="about">acerca</string>
+
+    <string name="section_format">FOTO : %1$d</string>
+    <string name="action_settings">Settings</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="exit">Salir</string>
+
+
+    <!-- Texto utilizado en que es see orienta-->
+    <string name="who">Este evento es organizado por la Subsecretaría de Educación Medio Superior,
+        la Dirección de Secundarias y las Instituciones de Nivel Medio Superior y Capacitación para
+        el Trabajo, a efecto de favorecer sustancialmente en la formación integral de los estudiantes michoacanos.
+        </string>
+    <string name="objective">El propósito de SeeOrienta es proporcionar a los alumnos de tercer
+        año de educación secuandaria, a maestros, padres de familia y público en general,
+        información sobre las diferentes opciones educativas y los servicios que ofrecen las instituciones
+        de Nivel Medio Superior y Capacitación para el trabajo en Lázaro Cárdenas.
+        </string>
+    <string name="when">Del 19 al 22 de Febrero.
+Las actividades iniciarán en Febrero, lo que facilitará a los estudiantes de Educación Secundaria dar
+        continuidad a su preparación profesional, toda vez que tendrán oportunidad de conocer las
+        diferentes opciones educativas que se ofertan en la entidad, lo cual les permitirá ampliar
+        sus expectativas educativas.
+    </string>
+
+
+    <!-- Texto utilizado en proyecto see orienta-->
+    <string name="who2">Este proyecto tiene como objetivo desarrollar e implementar una aplicación
+        móvil con información de las escuelas de nivel medio superior y superior en la zona Lázaro
+        Cárdenas Mich. Para los alumnos de nivel secundaria y preparatoria próximos a egresar y que
+        éstos utilizando el recurso de la tecnología puedan hacer un uso y con fácil acceso a esta
+        información. Buscando que el alumno se sienta bien orientado y satisfecho al saber que quiere
+        estudiar, en donde o si aún así lo desea.
+        </string>
+    <string name="development">
+        ISC Luis Martín Gómez Ríos
+        ISC Raul Martos Hernández
+        </string>
+    <string name="dineros">
+        gm_systems@hotmail.com
+        Cel: 7531371972
+        Tel: 5327788
+    </string>
+
+
+    <string name="correoSeeOrienta">
+       seeorienta@gmailcom
+
+    </string>
+    <!-- Texto utilizado en ayuda_main-->
+    <string name="comousarla">Aplicación Móvil Promocional del programa dentro del estado de Michoacán: See Orienta.
+Puedes obtener la información de cualquier institución en la zona Lázaro Cárdenas de la que desees informarte si deseas continuar tus estudios.</string>
+    <string name="interfaz">Cuenta con un menu lateral dónde puedes navegar y/o consultar las instituciones educativas de la zona Lázaro Cárdenas según su grado de estudios, a su vez, puedes consultar información detallada
+acerca del programa e información referente al desarrollo de esta aplicación.</string>
+    <string name="navegaciondemenu">En la pantalla principal en la barra superior izquierda hay botón que despliega un menu en donde podrás visualizar los tres niveles de estudio que se encuentran
+dentro del programa See Orienta. Ademas de información de contacto y acerca del desarrollo de este proyecto.</string>
+    <string name="seleccionarinstitucion">Despliega el menú en la pantalla principal y selecciona un nivel de estudios para
+        posteriormente desplegar una lista de las instituciones del nivel que has seleccionado. </string>
+    <string name="consultarinstitucion">Despliega el menú en la pantalla principal y selecciona un nivel de estudios para posteriormente desplegar una lista de las instituciones del nivel que has seleccionado.
+        Navega hacia abajo hasta encontrar la insittución de la que desees hacer consulta y seleccionala tocando su tarjeta.
+        En una nueva pantalla se integrará un menú en la barra superior derecha en dónde podrás hacer uso de ella para consultar cualquier cosa que desees del plantel educativo.</string>
+    <string name="desarrolladoresinfo">Despliega el menú en la pantalla principal y en la parte de abajo toca el botón Proyecto SeeOrienta</string>
+    <string name="seeorientainfo">Despliega el cajón de navegación y en la parte de abajo toca el botón Acerca de:</string>
+
+
+    <!--imagenes contenido de descripcion-->
+    <string name="decorativo">empty</string>
+
+    <!--Titulos de todos los activity-->
+    <string name="title_activity_main_superior">Nivel Superior</string>
+    <string name="title_activity_main_capacitacion">Escuelas de Capacitación</string>
+    <string name="title_activity_main_contacto">Contactos</string>
+    <string name="title_activity_main_acerca_see_orienta">¿Qué es See Orienta?</string>
+    <string name="title_activity_main_proyecto_so">Proyecto See Orienta:</string>
+    <string name="title_activity_main_info_medio_superior">Información</string>
+    <string name="title_activity_main_msuperior">Nivel Medio Superior</string>
+    <string name="title_activity_main_info_superior">Información</string>
+    <string name="title_activity_main_info_capacitacion">Información</string>
+    <string name="title_activity_splash_screen">SS</string>
+    <string name="title_activity_main_superior_menu">Main_superior_menu</string>
+    <string name="title_activity_main__info__superior__menu">Main_Info_Superior_Menu</string>
+    <string name="title_activity_prueba">Principios</string>
+    <color name="white">#FFFFFF</color>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

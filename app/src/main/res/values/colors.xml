@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_background">#eeeeee</color>
+    <color name="colorPrimary">#051D7F</color> <!--rojo #d0754c-->
+    <color name="colorPrimaryDark">#111111</color>
+    <color name="colorAccent">#b20911</color>
+    <color name="colorblanco">#FFFFFF</color>
+<color name="naranja">#FF9800</color>
+
+    <!--Colores para la pantalla de carga-->
+    <color name="primarydark">#273833</color>
+    <color name="blackcolor">#000</color>
+    <color name="lightorange">#fdf2df</color>
+    <color name="lightdarkorange">#ebd6ab</color>
+</resources>
